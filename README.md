@@ -1,2 +1,2 @@
-# ci_crud_upload
-latihan ci-crud-upload
+# 
+Learn CodeIgniter CRUD Upload Image
